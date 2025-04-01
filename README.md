@@ -10,7 +10,7 @@ Hi there!👋
 
 ---
 
-### 🛠 Tech Stack & Skills  
+## 🛠 Tech Stack & Skills  
 
 #### ☁️ Cloud Technologies  
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
@@ -30,7 +30,7 @@ Hi there!👋
 
 ---
 
-### 📌 Academic Projects:
+## 📌 Academic Projects:
 
 1️⃣ **Fashion Recommendation System** | 🔗[GitHub Repo](https://github.com/Daggu-phaniharsha/Fashion_Recommendation_System/tree/main)
    - 🌟 Designed and developed a shopping recommendation website that features a search box, a spotlight section, camera access, and voice input to enhance and streamline the user’s shopping experience.
@@ -45,15 +45,20 @@ Hi there!👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Daggu-phaniharsha&color=blue&style=for-the-badge)
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Daggu-phaniharsha&theme=tokyonight)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daggu-phaniharsha&show_icons=true&theme=tokyonight)
 
 ---
+## 🌟 Personal Details  
 
-### 🎯 Hobbies & Interests  
+- **Date of Birth:** 08th May 2003  
+- **Nationality:** Indian  
+- **Languages Known:** English, Telugu and Hindi
+
+## 🎯 Hobbies & Interests  
 
 - 🏸 Playing Badminton  
 - 🎵 Music & Podcast Listening  
@@ -61,7 +66,7 @@ Hi there!👋
 
 ---
 
-### 📫 Connect with Me:
+## 📫 Connect with Me:
 
 📧 For inquiries, reach out via email: [phaniharsha08@gmail.com](mailto:phaniharsha08@gmail.com)
 
