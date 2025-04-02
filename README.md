@@ -73,7 +73,7 @@ Hi there!👋
 💬 Have a question? Feel free to [open an issue](https://github.com/Daggu-phaniharsha/repository/issues).
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phani-harsha-daggu/)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/phaniharsha-daggu-ph950970)   
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daggu-phaniharsha)  
 
