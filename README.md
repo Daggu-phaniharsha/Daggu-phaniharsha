@@ -44,19 +44,17 @@ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 ### --> 📊 Contributions & GitHub Stats
 
-[![GitHub followers](https://img.shields.io/github/followers/madhunadhgurram?style=social)](https://github.com/madhunadhgurram?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/daggu-phaniharsha?style=social)](https://github.com/Daggu-phaniharsha?tab=followers)
 
-![Profile Views](https://komarev.com/ghpvc/?username=madhunadhgurram&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Daggu-phaniharsha&color=blue&style=for-the-badge)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=madhunadhgurram&theme=buefy&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Daggu-phaniharsha&theme=buefy&hide_border=true)
 
-| <a href="https://github.com/madhunadhgurram"><img align="center" src="https://github-readme-stats.vercel.app/api?username=madhunadhgurram&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="madhunadhgurram's github stats" /></a> | <a href="https://github.com/madhunadhgurram"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhunadhgurram&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Daggu-phaniharsha"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Daggu-phaniharsha&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Daggu-phaniharsha's github stats" /></a> | <a href="https://github.com/Daggu-phaniharsha"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daggu-phaniharsha&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- | 
 
-<!--
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhunadhgurram&show_icons=true&theme=tokyonight&hide_border=false)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhunadhgurram&layout=compact&theme=tokyonight)
--->
-[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=madhunadhgurram&theme=radical&no-bg=true&margin-w=15)](https://github.com/madhunadhgurram?tab=achievements) 
+
+[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Daggu-phaniharsha&theme=radical&no-bg=true&margin-w=15)](https://github.com/Daggu-phaniharsha?tab=achievements) 
 
 ## ⚡"Empowering automation today for a smarter, seamless tomorrow!"
 
@@ -77,13 +75,3 @@ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@vicky_gurram)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gurram_vicky)
 
-
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/phaniharsha-daggu-ph950970)   
-
-[![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daggu-phaniharsha)  
-
-
-## ⚡"Empowering automation today for a smarter, seamless tomorrow!"
