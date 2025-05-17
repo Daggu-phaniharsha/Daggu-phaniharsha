@@ -71,7 +71,7 @@ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 📧 For inquiries, reach out via email: [phaniharsha08@gmail.com](mailto:phaniharsha08@gmail.com)
 
-💬 Have a question? Feel free to [open an issue](https://github.com/Daggu-phaniharsha/repository/issues).
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/phaniharsha-daggu-ph950970)   
