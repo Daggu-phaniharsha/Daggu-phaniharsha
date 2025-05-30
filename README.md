@@ -1,13 +1,14 @@
 Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30">
   
-# I'm Phani Harsha Daggu     
+# I'm Phani Harsha Daggu      
        
 **Passionate DevOps Engineer | Skilled in DevOps, Cloud, and Automation | Terraform | Docker | Kubernetes | Open to DevOps & Cloud opportunities🚀**
  
+📍 Location: Hyderabad, India (Born and brought up in Bikakvolu, Andhra Pradesh)
+ 
 > 💡 Striving to bridge the gap between development and operations, one automation at a time!
 
-> 🌍 Always eager to explore and implement cutting-edge DevOps practices.
-
+> 🌍 Always eager to explore and implement cutting-edge DevOps practices. 
 
 ## 🛠 Tech Stack & Skills  
 
