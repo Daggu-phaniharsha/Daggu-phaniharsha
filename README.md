@@ -22,7 +22,6 @@
 > 🌍 Always eager to explore and implement cutting-edge DevOps practices. 
 
 
-
 ### 🛠 Tech Stack & Skills  
 
 | ☁️ Cloud & Platforms                                                                                | ⚙️ DevOps & CI/CD                                                                                         | 🐳 Containers & Orchestration                                                                  | 📊 Monitoring & Infra                                                                          | 🚀 IaC & Automation                                                                         | 💻 Programming Languages                                                              
@@ -51,8 +50,6 @@
 ---
 
 ### 📊 Contributions & GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Daggu-phaniharsha&theme=buefy&hide_border=true)
 
 | <a href="https://github.com/Daggu-phaniharsha"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Daggu-phaniharsha&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Daggu-phaniharsha's github stats" /></a> | <a href="https://github.com/Daggu-phaniharsha"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daggu-phaniharsha&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- | 
