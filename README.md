@@ -36,7 +36,7 @@
 
 ---
 
-## 📌 Academic Projects:
+### 📌 Academic Projects:
 
 1️⃣ **Fashion Recommendation System** | 🔗[GitHub Repo](https://github.com/Daggu-phaniharsha/Fashion_Recommendation_System/tree/main)
    - 🌟 Designed and developed a shopping recommendation website that features a search box, a spotlight section, camera access, and voice input to enhance and streamline the user’s shopping experience.
@@ -56,8 +56,8 @@
 
 [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Daggu-phaniharsha&theme=radical&no-bg=true&margin-w=15)](https://github.com/Daggu-phaniharsha?tab=achievements) 
 
-## ⚡"Empowering automation today for a smarter, seamless tomorrow!"
-
+### ⚡"Empowering automation today for a smarter, seamless tomorrow!"
+---
 ### 🎯 Hobbies & Interests  
 
 - 🤝 Volunteering & Community Services
