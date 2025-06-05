@@ -8,7 +8,6 @@
 <p align="center">
   <a href="mailto:phaniharsha08@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/phaniharsha-daggu-ph950970/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Daggu-phaniharsha"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 <p align="center">Passionate DevOps Engineer | Skilled in DevOps, Cloud, and Automation | Jenkins | Terraform | Ansible | Docker | Kubernetes </p>
