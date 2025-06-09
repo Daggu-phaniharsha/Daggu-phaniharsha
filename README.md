@@ -57,7 +57,7 @@
 
 [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Daggu-phaniharsha&theme=radical&no-bg=true&margin-w=15)](https://github.com/Daggu-phaniharsha?tab=achievements) 
 
-# ⚡"Empowering automation today for a smarter, seamless tomorrow!"
+## ⚡"Empowering automation today for a smarter, seamless tomorrow!"
 
 ### 🎯 Hobbies & Interests  
 
