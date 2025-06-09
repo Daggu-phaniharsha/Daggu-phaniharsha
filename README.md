@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Daggu-phaniharsha&label=Visitors&color=0e75b6&style=flat" alt="Daggu-phaniharsha" />  <img src="https://img.shields.io/github/followers/Daggu-phaniharsha?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
  
 <h1 align="center">
-  <img src="https://github.com/madhunadhgurram/madhunadhgurram/blob/main/one.svg" alt="Phani Harsha Daggu" />
+  <img src="https://github.com/madhunadhgurram/madhunadhgurram/blob/main/phani.svg" alt="Phani Harsha Daggu" />
 </h1>
 
 
