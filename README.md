@@ -2,11 +2,8 @@
  
 <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=Daggu-phaniharsha&label=Visitors&color=0e75b6&style=flat" alt="Daggu-phaniharsha" />  <img src="https://img.shields.io/github/followers/Daggu-phaniharsha?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
- 
-<h1 align="center">
-  <img src="https://github.com/Daggu-phaniharsha/Daggu-phaniharsha/blob/main/phani.svg" alt="Phani Harsha Daggu" />
-</h1>
 
+<img src="phani.svg" alt="Phani Harsha Daggu" width="100%" />
 
 <p align="center">
   <a href="mailto:phaniharsha08@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
