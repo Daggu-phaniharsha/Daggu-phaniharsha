@@ -1,5 +1,29 @@
 ### Hi👋 I'm Phani Harsha      
        
+<img src="https://raw.githubusercontent.com/your-username/your-repo/main/young-bujjamma-banner.png" alt="banner that says Phani Harsha Daggu - Software Engineer, Content Creator and Community Organizer alongside a cartoon illustration of Phani Harsha" width="100%">
+
+I'm a **software engineer** who is passionate about making open-source contributions more approachable, creating technology to elevate people, and building strong, inclusive communities.
+
+Some technologies I enjoy working with include **ReactJS**, **Jamstack (JavaScript, APIs + Markup)**, and **GraphQL**.  
+In 2025, I’m focused on expanding my contributions to impactful open-source projects and sharing my journey through content.
+
+> My journey is powered by curiosity, community, and code. 🌸
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="left">    
   <img src="https://komarev.com/ghpvc/?username=Daggu-phaniharsha&label=Visitors&color=0e75b6&style=flat" alt="Daggu-phaniharsha" />  <img src="https://img.shields.io/github/followers/Daggu-phaniharsha?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" /> 
  
