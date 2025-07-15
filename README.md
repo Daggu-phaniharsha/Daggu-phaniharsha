@@ -46,7 +46,7 @@
 
 2️⃣ **Fashion Recommendation System** | 🔗[GitHub Repo](https://github.com/Daggu-phaniharsha/Fashion_Recommendation_System/tree/main)
    - 🌟 Designed and developed a shopping recommendation website that features a search box, a spotlight section, camera access, and voice input to enhance and streamline the user’s shopping experience.
-   - 🛠 Tech used: Machine Learning Algorithms and Deep Learning Models
+   - 🛠 Tech stack: Machine Learning Algorithms and Deep Learning Models
 <!--
  **Software Version Control With GIT** | 🔗[GitHub Repo](https://github.com/MadhunadhGurram/Software_Version_Control_With_Git) 
    - 🌟 Effectively deployed a dynamic web page utilizing Git Bash and Jenkins tools within a Linux environment, showcasing adeptness and proficiency in modern development methodologies.
