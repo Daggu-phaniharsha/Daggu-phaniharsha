@@ -12,9 +12,9 @@
   <a href="https://github.com/Daggu-phaniharsha"> <img src="https://img.shields.io/badge/GitHub-232F3E?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a> 
 </p>
 
-<p align="center">Passionate DevOps Engineer | Skilled in DevOps, Cloud, and Automation | Jenkins | Terraform | Ansible | Docker | Kubernetes </p>
-<p align="center">Open to DevOps & Cloud opportunities🚀</p>
+<p align="center">💻 Passionate Full Stack Web Developer | Skilled in Java, HTML, CSS, JavaScript, SQL | Building responsive & scalable web apps
 
+<p align="center">Open to Full Stack Development & Web Technologies opportunities 🚀</p>
  
 > 📍 Location: Hyderabad, India (Born and brought up in Bikkavolu, Andhra Pradesh)
  
